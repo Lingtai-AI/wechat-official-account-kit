@@ -89,4 +89,4 @@ python scripts/verify_signature.py --token TOKEN --timestamp 1 --nonce 2 --signa
 
 ## License
 
-MIT
+Apache-2.0
